@@ -1,0 +1,10 @@
+{
+  "message": "Hello from Python!",
+  "container": "student-202555348",
+  "velocities_m_s": [
+    1500,
+    2000,
+    2500
+  ],
+  "average_velocity_m_s": 2000.0
+}
